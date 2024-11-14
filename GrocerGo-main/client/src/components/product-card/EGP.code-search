@@ -1,0 +1,80 @@
+# Query: EGP
+# ContextLines: 1
+
+18 results - 4 files
+
+client\package-lock.json:
+    435        "resolved": "https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.16.7.tgz",
+    436:       "integrity": "sha512-hsEnFemeiW4D08A5gUAZxLBTXpZ39P+a+DGDsHw1yxqyQ/jzFEnxf5uTEGp+3bzAbNOxU1paTgYS4ECU/IgfDw==",
+    437        "engines": {
+
+   3125        "resolved": "https://registry.npmjs.org/@svgr/babel-preset/-/babel-preset-5.5.0.tgz",
+   3126:       "integrity": "sha512-4FiXBjvQ+z2j7yASeGPEi8VD/5rrGQk4Xrq3EdJmoZgz/tpqChpo5hgXDvmEauwtvOc52q8ghhZK4Oy7qph4ig==",
+   3127        "dependencies": {
+
+   3523        "resolved": "https://registry.npmjs.org/@types/connect/-/connect-3.4.35.tgz",
+   3524:       "integrity": "sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ==",
+   3525        "dependencies": {
+
+   5239        "resolved": "https://registry.npmjs.org/ci-info/-/ci-info-3.3.0.tgz",
+   5240:       "integrity": "sha512-riT/3vI5YpVH6/qomlDnJow6TBee2PBKSEpx3O32EGPYbWGIRsIlGRms3Sm74wYE1JMo8RnO04Hb12+v1J5ICw=="
+   5241      },
+
+   7456        "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-5.0.1.tgz",
+   7457:       "integrity": "sha512-nLDxIFRyhDblz3qMuq+SoRZED4+miJ/G+tdDrjkkkRnjAsBexeGpgjLEQ0blJy7rHhR2b93rhQY4SvyWu9v03g==",
+   7458        "dependencies": {
+
+   7894        "resolved": "https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.1.tgz",
+   7895:       "integrity": "sha512-kWZrnVM42QCiEA2Ig1bG8zjoIMOgxWwYCEeNdwY6Tv/cOSeGpcoX4pXHfKUxNKVoArnrEr2e9srnAxxGIraS9Q==",
+   7896        "dependencies": {
+
+  13567        "resolved": "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz",
+  13568:       "integrity": "sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w=="
+  13569      },
+
+  16792        "resolved": "https://registry.npmjs.org/@babel/helper-validator-identifier/-/helper-validator-identifier-7.16.7.tgz",
+  16793:       "integrity": "sha512-hsEnFemeiW4D08A5gUAZxLBTXpZ39P+a+DGDsHw1yxqyQ/jzFEnxf5uTEGp+3bzAbNOxU1paTgYS4ECU/IgfDw=="
+  16794      },
+
+  18579        "resolved": "https://registry.npmjs.org/@svgr/babel-preset/-/babel-preset-5.5.0.tgz",
+  18580:       "integrity": "sha512-4FiXBjvQ+z2j7yASeGPEi8VD/5rrGQk4Xrq3EdJmoZgz/tpqChpo5hgXDvmEauwtvOc52q8ghhZK4Oy7qph4ig==",
+  18581        "requires": {
+
+  18866        "resolved": "https://registry.npmjs.org/@types/connect/-/connect-3.4.35.tgz",
+  18867:       "integrity": "sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ==",
+  18868        "requires": {
+
+  20188        "resolved": "https://registry.npmjs.org/ci-info/-/ci-info-3.3.0.tgz",
+  20189:       "integrity": "sha512-riT/3vI5YpVH6/qomlDnJow6TBee2PBKSEpx3O32EGPYbWGIRsIlGRms3Sm74wYE1JMo8RnO04Hb12+v1J5ICw=="
+  20190      },
+
+  21814            "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-5.0.1.tgz",
+  21815:           "integrity": "sha512-nLDxIFRyhDblz3qMuq+SoRZED4+miJ/G+tdDrjkkkRnjAsBexeGpgjLEQ0blJy7rHhR2b93rhQY4SvyWu9v03g==",
+  21816            "requires": {
+
+  22115        "resolved": "https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.1.1.tgz",
+  22116:       "integrity": "sha512-kWZrnVM42QCiEA2Ig1bG8zjoIMOgxWwYCEeNdwY6Tv/cOSeGpcoX4pXHfKUxNKVoArnrEr2e9srnAxxGIraS9Q==",
+  22117        "requires": {
+
+  26080        "resolved": "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz",
+  26081:       "integrity": "sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w=="
+  26082      },
+
+client\src\components\order-summary\OrderSummary.js:
+  18                          </div>
+  19:                         <div className={styles['quantity']}>{product.price}INR x{product.quantity || 1}</div>
+  20                          <div className={styles['product-name']}>{product.name}</div>
+
+  26                      <div className={styles['total-txt']}>Total</div>
+  27:                     <div className={styles['total']}>{order.total} INR</div>
+  28                  </div>
+
+notifications\controller\notifications\templates\OrderConfirmationTemplate.js:
+  140              <p>Items Purchased: <span class="val">${calculateTotalItems(order.products)} Items</span></p>
+  141:             <p>Grand Total: <span class="val">${order.total} INR</span></p>
+  142          </div>
+
+server\controller\notifications\templates\OrderConfirmationTemplate.js:
+  130              <p>Expected Arrival: <span class="val">${order.ordered_at}</span></p>
+  131:             <p>Grand Total: <span class="val">${order.total} INR</span></p>
+  132          </div>

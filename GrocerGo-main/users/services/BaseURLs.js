@@ -1,0 +1,1 @@
+export const PRODUCTS_BASEURL = 'https://grocergo-products.vercel.app/products'
