@@ -2,6 +2,8 @@
 
 GrocerGo is a MERN-based grocery shopping application developed as a part of the Naan Mudhalvan program for our Semester 7 project. This application provides a seamless and user-friendly interface for users to browse, select, and purchase groceries online with a streamlined checkout process powered by Stripe.
 
+Demo link: https://drive.google.com/file/d/1pO2MV8O6H2ALr_V_vwAYDEaqQE318mKk/view?usp=sharing
+
 ## Project Authors
 - **R B Shyamala (1E352D1BBE931BE9376478F8D8893207)**
 - **Shivani Suresh (11A8EBB9579E75F9C2D46A29C937B0E3)**
